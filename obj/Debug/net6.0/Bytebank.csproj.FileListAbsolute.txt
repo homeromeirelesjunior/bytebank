@@ -1,0 +1,15 @@
+/home/homero/estudos/c-sharp-oop/Bytebank/bin/Debug/net6.0/Bytebank
+/home/homero/estudos/c-sharp-oop/Bytebank/bin/Debug/net6.0/Bytebank.deps.json
+/home/homero/estudos/c-sharp-oop/Bytebank/bin/Debug/net6.0/Bytebank.runtimeconfig.json
+/home/homero/estudos/c-sharp-oop/Bytebank/bin/Debug/net6.0/Bytebank.dll
+/home/homero/estudos/c-sharp-oop/Bytebank/bin/Debug/net6.0/Bytebank.pdb
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/Bytebank.csproj.AssemblyReference.cache
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/Bytebank.GeneratedMSBuildEditorConfig.editorconfig
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/Bytebank.AssemblyInfoInputs.cache
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/Bytebank.AssemblyInfo.cs
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/Bytebank.csproj.CoreCompileInputs.cache
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/Bytebank.dll
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/refint/Bytebank.dll
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/Bytebank.pdb
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/Bytebank.genruntimeconfig.cache
+/home/homero/estudos/c-sharp-oop/Bytebank/obj/Debug/net6.0/ref/Bytebank.dll
